@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A([Inicio])
     A --> B[/Capturar datos del asistente/]
@@ -9,4 +10,5 @@ flowchart TD
     C -->|No| F[/Mostrar datos faltantes/]
     F --> E
 
-    E --> G([Fin])
+    E --> G([Fin]) 
+    ```
